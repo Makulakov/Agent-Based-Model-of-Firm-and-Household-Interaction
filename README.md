@@ -18,3 +18,8 @@ At each simulation step:
 3. Budget allocation between consumption and savings
 4. Firm selection based on utility functions (price, prestige, preferences)
 5. Supply constraints and rationing mechanisms
+
+## Note:
+For now, we have a working system with defined relationships between classes and a solving system.
+I will add more later (separate code files, a more realistic analytical mechanism for firms, improvements to the utility function).
+Feel free to text me with any questions or suggestions.
